@@ -1,0 +1,203 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Bhargav",
+      "email": "admin@tripwheels.com",
+      "password": "tripadmin"
+    }
+  ],
+  "cars": [
+    {
+      "id": "2",
+      "name": "Verna",
+      "brand": "Hyundai",
+      "type": "Sedan",
+      "fuel": "Petrol",
+      "seats": 5,
+      "transmission": "Automatic",
+      "pricePerDay": 2000,
+      "image": "https://images.unsplash.com/photo-1493238792000-8113da705763"
+    },
+    {
+      "id": "4",
+      "name": "Hyundai i20",
+      "brand": "Hyundai",
+      "type": "Hatchback",
+      "fuel": "Petrol",
+      "seats": 5,
+      "transmission": "Automatic",
+      "pricePerDay": 1500,
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+    },
+    {
+      "id": "5",
+      "name": "Toyota Innova Crysta",
+      "brand": "Toyota",
+      "type": "MPV",
+      "fuel": "Diesel",
+      "seats": 7,
+      "transmission": "Manual",
+      "pricePerDay": 3500,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+      "id": "7",
+      "name": "Tata Nexon",
+      "brand": "Tata",
+      "type": "Compact SUV",
+      "fuel": "Petrol",
+      "seats": 5,
+      "transmission": "Manual",
+      "pricePerDay": 1650,
+      "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d"
+    },
+    {
+      "id": "8",
+      "name": "Kia Seltos",
+      "brand": "Kia",
+      "type": "SUV",
+      "fuel": "Petrol",
+      "seats": 5,
+      "transmission": "Automatic",
+      "pricePerDay": 2600,
+      "image": "https://images.unsplash.com/photo-1549923746-c502d488b3ea"
+    },
+    {
+      "id": "9",
+      "name": "Hyundai Creta",
+      "brand": "Hyundai",
+      "type": "SUV",
+      "fuel": "Diesel",
+      "seats": 5,
+      "transmission": "Manual",
+      "pricePerDay": 2400,
+      "image": "https://images.unsplash.com/photo-1617469165788-cc3cf3804f6f"
+    },
+    {
+      "id": "11",
+      "name": "Jeep Compass",
+      "brand": "Jeep",
+      "type": "SUV",
+      "fuel": "Diesel",
+      "seats": 5,
+      "transmission": "Automatic",
+      "pricePerDay": 4000,
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+    },
+    {
+      "id": "12",
+      "name": "Ford EcoSport",
+      "brand": "Ford",
+      "type": "Compact SUV",
+      "fuel": "Petrol",
+      "seats": 5,
+      "transmission": "Manual",
+      "pricePerDay": 1700,
+      "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d"
+    },
+    {
+      "id": "15",
+      "name": "Hyundai Aura",
+      "brand": "Hyundai",
+      "type": "Sedan",
+      "fuel": "Petrol",
+      "seats": 5,
+      "transmission": "Manual",
+      "pricePerDay": 1400,
+      "image": "https://images.unsplash.com/photo-1493238792000-8113da705763"
+    },
+    {
+      "id": "16",
+      "name": "Tata Tiago",
+      "brand": "Tata",
+      "type": "Hatchback",
+      "fuel": "Petrol",
+      "seats": 5,
+      "transmission": "Manual",
+      "pricePerDay": 950,
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+    },
+    {
+      "id": "17",
+      "name": "Hyundai Alcazar",
+      "brand": "Hyundai",
+      "type": "SUV",
+      "fuel": "Diesel",
+      "seats": 7,
+      "transmission": "Automatic",
+      "pricePerDay": 3600,
+      "image": "https://images.unsplash.com/photo-1617469165788-cc3cf3804f6f"
+    },
+    {
+      "id": "18",
+      "name": "Mahindra Thar",
+      "brand": "Mahindra",
+      "type": "Off-Road",
+      "fuel": "Diesel",
+      "seats": 4,
+      "transmission": "Manual",
+      "pricePerDay": 4500,
+      "image": "https://images.unsplash.com/photo-1597004890939-74d8cd94997a"
+    },
+    {
+      "id": "20",
+      "name": "Mercedes-Benz GLC",
+      "brand": "Mercedes",
+      "type": "Luxury SUV",
+      "fuel": "Petrol",
+      "seats": 5,
+      "transmission": "Automatic",
+      "pricePerDay": 12000,
+      "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "8724"
+    },
+    {
+      "id": "ba0f"
+    },
+    {
+      "id": "d00e"
+    },
+    {
+      "id": "ec4e"
+    }
+  ],
+  "services": [
+    {
+      "id": "40ae"
+    },
+    {
+      "id": "3330"
+    }
+  ],
+  "students": [
+    {
+      "id": "fbd1",
+      "name": "Sridhar ",
+      "course": "MERN Fullstack",
+      "status": "Ongoing"
+    },
+    {
+      "id": "e17b",
+      "name": "Karthikeya 2",
+      "course": "MERN Fullstack",
+      "status": "Ongoing"
+    },
+    {
+      "id": "1e0f",
+      "name": "Sasank",
+      "course": "Python Fullstack",
+      "status": "Pending"
+    },
+    {
+      "name": "Suresh",
+      "course": "MERN Fullstack",
+      "status": "Ongoing",
+      "id": "77fc"
+    }
+  ]
+}
